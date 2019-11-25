@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import axios from 'axios';
 import './Menu.css';
 
@@ -34,7 +34,7 @@ class Submenu extends Component {
     );
 
     return (
-      <React.Fragment>
+      <Fragment>
         <div id="sidebar" >
           <div className="ui vertical menu">
             <div className="item">
@@ -52,7 +52,7 @@ class Submenu extends Component {
             </div>
           </div>
         </div>
-      </React.Fragment>
+      </Fragment>
     );
   }
 }

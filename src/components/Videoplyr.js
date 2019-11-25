@@ -1,29 +1,22 @@
-import React, { Component } from "react";
+import React, { Component, Fragment } from "react";
 import './Video.css';
 import './Menu.js';
 
 class Videoplyr extends Component {
   constructor(props) {
     super(props);
-    this.state = {
-      source: this.props.videoUrl
-    };
+    this.state = {source: this.props.videoUrl};
   }
   changeSource(url) {
     return () => {
-      this.setState({
-        source: url
-      });
+      this.setState({source: url});
       document.getElementById("player").load();
       this.Clip(url);
     }
   }
   Clip(url) {
     return (
-      <source
-        src={url}
-        type="video/mp4"
-      />
+      <source src={url} type="video/mp4" />
     )
   }
   stopplay(url){
@@ -36,7 +29,7 @@ class Videoplyr extends Component {
     const videoURL = this.props.videoUrl;
 
     return (
-      <React.Fragment>
+      <Fragment>
         <div id="container" onFocus={this.changeSource(videoURL)} onBlur={this.stopplay(videoURL)}>
           <div id="videop">
             <div className="title">
@@ -62,7 +55,6 @@ class Videoplyr extends Component {
                 height="320px"
                 poster="/path/to/poster.jpg"
                 id="player"
-                ref="player"
                 playsInline
                 controls
                 controlsList="nodownload"
@@ -79,10 +71,10 @@ class Videoplyr extends Component {
                   default />
               </video>
             </div>
-            <div className="script"><p><strong>[Script about Video Player]</strong><br />{currentInterview.subtitle}</p></div>
+            <div className="script"><p>{currentInterview.subtitle}</p></div>
           </div>
         </div>
-      </React.Fragment>
+      </Fragment>
     );
   }
 }
