@@ -1,0 +1,28 @@
+#container{
+	overflow:hidden;
+	/*display: table;*/
+}
+
+#videop {
+	display:table-cell;
+	width : 90%;
+	height : 100%;
+}
+
+.title{
+	border:2px solid #EBEBEB;
+	width : 700px;
+	margin-bottom:10px;
+}
+
+.video{
+	float:left;
+}
+
+.script{
+	display:inline-block;
+	position: absolute;
+	word-break:break-all;
+	margin-left:30px;
+	width : 500px;
+}

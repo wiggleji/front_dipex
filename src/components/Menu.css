@@ -1,0 +1,18 @@
+#menubar{
+	margin-left : 5px;
+	padding : 10px 10px;
+	margin-bottom:10px;
+}
+
+#sidebar {
+	float: left;
+	margin-left: 10px;
+	margin-right: 50px;
+}
+
+#foot{
+	position: absolute;
+	bottom:0;
+	width:100%;
+	text-align:center;
+}
