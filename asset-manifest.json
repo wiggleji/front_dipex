@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/front_dipex/static/css/main.49926f6e.chunk.css",
-    "main.js": "/front_dipex/static/js/main.9957aae2.chunk.js",
-    "main.js.map": "/front_dipex/static/js/main.9957aae2.chunk.js.map",
-    "runtime-main.js": "/front_dipex/static/js/runtime-main.c44809ab.js",
-    "runtime-main.js.map": "/front_dipex/static/js/runtime-main.c44809ab.js.map",
-    "static/css/2.c65f905d.chunk.css": "/front_dipex/static/css/2.c65f905d.chunk.css",
-    "static/js/2.96dba5a5.chunk.js": "/front_dipex/static/js/2.96dba5a5.chunk.js",
-    "static/js/2.96dba5a5.chunk.js.map": "/front_dipex/static/js/2.96dba5a5.chunk.js.map",
+    "main.css": "/front_dipex/static/css/main.1f791189.chunk.css",
+    "main.js": "/front_dipex/static/js/main.f182a13c.chunk.js",
+    "main.js.map": "/front_dipex/static/js/main.f182a13c.chunk.js.map",
+    "runtime-main.js": "/front_dipex/static/js/runtime-main.17deefc2.js",
+    "runtime-main.js.map": "/front_dipex/static/js/runtime-main.17deefc2.js.map",
+    "static/css/2.8e718b50.chunk.css": "/front_dipex/static/css/2.8e718b50.chunk.css",
+    "static/js/2.ad746686.chunk.js": "/front_dipex/static/js/2.ad746686.chunk.js",
+    "static/js/2.ad746686.chunk.js.map": "/front_dipex/static/js/2.ad746686.chunk.js.map",
     "index.html": "/front_dipex/index.html",
-    "precache-manifest.409b53c7caa0c34f638c693754f09dd7.js": "/front_dipex/precache-manifest.409b53c7caa0c34f638c693754f09dd7.js",
+    "precache-manifest.0af667ad6d27a7b0a930d17fb4093b58.js": "/front_dipex/precache-manifest.0af667ad6d27a7b0a930d17fb4093b58.js",
     "service-worker.js": "/front_dipex/service-worker.js",
-    "static/css/2.c65f905d.chunk.css.map": "/front_dipex/static/css/2.c65f905d.chunk.css.map",
-    "static/css/main.49926f6e.chunk.css.map": "/front_dipex/static/css/main.49926f6e.chunk.css.map",
+    "static/css/2.8e718b50.chunk.css.map": "/front_dipex/static/css/2.8e718b50.chunk.css.map",
+    "static/css/main.1f791189.chunk.css.map": "/front_dipex/static/css/main.1f791189.chunk.css.map",
     "static/media/semantic.min.css": "/front_dipex/static/media/outline-icons.ef60a4f6.woff"
   }
 }

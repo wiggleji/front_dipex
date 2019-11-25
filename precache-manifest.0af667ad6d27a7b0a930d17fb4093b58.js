@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17bdc38c482e429020d3a3be9c1c55e5",
+    "revision": "5c59ae2abeb3731a184efda992915326",
     "url": "/front_dipex/index.html"
   },
   {
-    "revision": "a055b34a672741be976d",
-    "url": "/front_dipex/static/css/2.c65f905d.chunk.css"
+    "revision": "86321b869d273813f58f",
+    "url": "/front_dipex/static/css/2.8e718b50.chunk.css"
   },
   {
-    "revision": "5f62c0ac8bee7098ceea",
-    "url": "/front_dipex/static/css/main.49926f6e.chunk.css"
+    "revision": "04fc18503700ae21cde6",
+    "url": "/front_dipex/static/css/main.1f791189.chunk.css"
   },
   {
-    "revision": "a055b34a672741be976d",
-    "url": "/front_dipex/static/js/2.96dba5a5.chunk.js"
+    "revision": "86321b869d273813f58f",
+    "url": "/front_dipex/static/js/2.ad746686.chunk.js"
   },
   {
-    "revision": "5f62c0ac8bee7098ceea",
-    "url": "/front_dipex/static/js/main.9957aae2.chunk.js"
+    "revision": "04fc18503700ae21cde6",
+    "url": "/front_dipex/static/js/main.f182a13c.chunk.js"
   },
   {
-    "revision": "551e2ecc33a68830c888",
-    "url": "/front_dipex/static/js/runtime-main.c44809ab.js"
+    "revision": "6c7625e6872ce4f2a328",
+    "url": "/front_dipex/static/js/runtime-main.17deefc2.js"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
